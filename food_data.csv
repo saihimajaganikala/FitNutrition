@@ -1,0 +1,13 @@
+food_id,food_name,category,serving_g,calories_kcal_per_100g,protein_g_per_100g,carbs_g_per_100g,fat_g_per_100g
+1,Boiled egg,Protein,50,155,12.6,1.1,10.6
+2,"Chicken breast, cooked",Protein,100,165,31.0,0.0,3.6
+3,Paneer,Protein,100,265,18.3,1.2,20.8
+4,"Soya chunks, dry",Protein,25,345,52.0,33.0,0.5
+5,Cooked rice,Carbohydrate,150,130,2.7,28.2,0.3
+6,"Oats, dry",Carbohydrate,40,389,16.9,66.3,6.9
+7,"Milk, whole",Dairy,200,61,3.2,4.8,3.3
+8,Banana,Fruit,120,89,1.1,22.8,0.3
+9,"Peanuts, boiled",Protein,100,318,13.5,21.3,22.0
+10,"Dal, cooked",Legume,150,116,9.0,20.1,0.4
+11,"Curd, plain",Dairy,100,61,3.5,4.7,3.3
+12,Almonds,Nuts,20,579,21.2,21.6,49.9
